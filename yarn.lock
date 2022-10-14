@@ -149,10 +149,20 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@radix-ui/colors@^0.1.8":
+  version "0.1.8"
+  resolved "https://registry.yarnpkg.com/@radix-ui/colors/-/colors-0.1.8.tgz#b08c62536fc462a87632165fb28e9b18f9bd047e"
+  integrity sha512-jwRMXYwC0hUo0mv6wGpuw254Pd9p/R6Td5xsRpOmaWkUHlooNWqVcadgyzlRumMq3xfOTXwJReU0Jv+EIy4Jbw==
+
 "@rushstack/eslint-patch@^1.1.3":
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.2.0.tgz#8be36a1f66f3265389e90b5f9c9962146758f728"
   integrity sha512-sXo/qW2/pAcmT43VoRKOJbDOfV3cYpq3szSVfIThQXNt+E4DfKj361vaAt3c88U5tPUxzEswam7GW48PJqtKAg==
+
+"@stitches/react@^1.2.8":
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/@stitches/react/-/react-1.2.8.tgz#954f8008be8d9c65c4e58efa0937f32388ce3a38"
+  integrity sha512-9g9dWI4gsSVe8bNLlb+lMkBYsnIKCZTmvqvDG+Avnn69XfmHZKiaMrx7cgTaddq7aTPPmXiTsbFcUy0xgI4+wA==
 
 "@swc/helpers@0.4.11":
   version "0.4.11"
@@ -1564,6 +1574,16 @@ source-map-js@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.0.2.tgz#adbc361d9c62df380125e7f161f71c826f1e490c"
   integrity sha512-R0XvVJ9WusLiqTCEiGCmICCMplcCkIwwR11mOSD9CR5u+IXYdiseeEuXCVAjS54zqwkLcPNnmU4OeJ6tUrWhDw==
+
+stitches-normalize-css@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/stitches-normalize-css/-/stitches-normalize-css-1.2.0.tgz#11e748fc17802db0925df50e7ad2039ba24188c7"
+  integrity sha512-X0AmvKQcK2gXSCwmYzMQSqXA+9Yz+Nl7UUjuQ/Dkx3c77B9KyzGUFYNIiZ4ZW1SGRInDA/vI1HTUQk3ezkXDpA==
+
+stitches-reset@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/stitches-reset/-/stitches-reset-1.0.0.tgz#e952964efc78eb9a44eabed3e5bec75fbad5dfe3"
+  integrity sha512-qeTbzXrS27hvhfdKSWn8rEzkno1Yii4y3/2Oq6HksMuMxY9x2xzNNnNh6Aor+0XYOK6HvpQZ8kluAO3M8rt34A==
 
 string.prototype.matchall@^4.0.7:
   version "4.0.7"
